@@ -66,5 +66,3 @@ Click 'Predict' to get the result.
 
 ---
 
-## Disclaimer
-- This app is for educational purposes only and should not replace professional medical advice.
